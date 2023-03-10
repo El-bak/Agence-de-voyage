@@ -1,0 +1,247 @@
+
+if (!isset($Bawa)){ // inverse de isset pour voir si la variable bawa existe
+      $Message_error["nom"]=' il ya error mother fuck'; //si sa n'existe pas
+     }
+     else{
+
+     }
+
+
+
+
+
+
+Un overlay, c'est simplement la superposition d'une couche sur une autre, par exemple deux divs. Mais en HTML, cela implique que la couche supérieure doit sortir du flux, car sinon elle ne peut pas recouvrir l'autre.
+
+
+
+ <section id="steps">
+<div class="wrapper">
+<ul>
+    
+<li id ="step-1">
+    <h4>Planifier</h4>
+  <p>confier-nous vos rèves d'évasion; en famille ou entre amis,
+nous trouverons la formule qui comblera vos attentes.</p></li>
+    
+<li id="step-2">
+<h4>Organisez</h4>
+   <p>Bénéficiez de l'expertise de nos spécialistes de chaque destination,
+   ils vous accompagnent dans la réalisations de votre voyage.</p></li>
+    
+<li id="step-3">
+<h4>Voyager</h4>
+   <p>Nous nous chargeons d'assurer votre sécurité 
+    et de veiller à votre pleine sérénité tout au long de votre voyage</p></li>
+</ul>
+</div>
+</section>
+
+<section id="possibilities">
+<div class="wrapper">
+<article style="background-image: url(Image/article-image-1.jpg)"></article>
+<div class="overlay">
+<h4>Partez en famille</h4>
+<p>offrez le meilleur à ceux que vous aimez et partagez des moments fabuleux au bord de la mer.</p>
+<a href="#" class="bouton-2">plus d'infos</a>
+    </div>
+    </div>
+    <div class="wrapper">
+    <article style="background-image: url(Image/article-image-2.jpg)"></article>
+    <div class="overlay">
+<h5>Envie de s'évader</h5>
+<p>Parfois un peu d'évasion serait le bienvenu et ferait le plus grand bien.
+Surtout au pays de RAMSES 2</p>
+<a href="#" class="bouton-2">plus d'infos</a>
+    </div>
+</div>
+<div class="wrapper">
+    <a href="#" class="bouton-2">plus d'infos</a>
+</div>
+</section>
+
+    
+<section id="contact">
+<div class="wrapper">
+<h6>Contactez-nous</h6>
+<p>Chez agence de voyage nous savons que voyager est une aventure humaine mais egalement un engagement financier important pour vous. C'est pourquoi nous mettons une part d'honneur à prendre en compte chacune de vos attentes pour vous aider dans la préparation de votre séjour, circuit ou voyage sur mesure.</p>
+    <li><input type="text" placeholder="Nom"></li>
+</div>
+</section>
+
+
+
+
+#step ul{
+    margin: 80px 0;
+}
+
+#step ul li {
+width: 300px;
+    float: left;
+    padding-top: 140px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+h4{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 20px;
+}
+
+
+
+<p class="forgot-password"><a class= "fgt-password" href="">Mots de passe oubliée</a></p>
+
+<article style="background-image: url(Image/une-belle-destination-touristique-.jpg)";>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Orange{
+    color: #ff7a00;
+}
+Class
+{
+    
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+header 
+{
+    height: 120px;
+}
+
+header h1
+{
+    float: left;
+    margin-top: 32px;
+}
+header a{
+ 
+ text-decoration: none;
+    color: #444;
+    
+}
+
+header nav ul li{
+    float: left;
+    display:inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 20px;
+    }
+   
+
+header nav{
+    float:right;
+    margin-top: 50px;
+}
+body{
+    font-family: crete, sans-serif;
+    font-size: 15px;
+}
+h1 
+{
+    font-family: crete, round, serif;
+    font-size: 45px;
+    color: #444;
+}
+.wrapper
+{
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+#main-image{
+
+    height:580px;
+    background-image:url(Image/main.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2{
+font-weight: normal;
+font-size: 55px;
+text-transform: uppercase;
+text-align: center;
+padding: 150px 0 40px 0;
+margin-bottom: 20px;
+}
+a{
+    color: white;
+    text-decoration:none;
+}
+.bouton-1{
+display: block;  
+width: 120px;
+height: 50px;
+background-color: #ff7a00;
+font-size: 20px;
+margin: auto;
+line-height: 50px;
+text-align: center;
+border-radius: 3px;
+}
+.bouton-1:hover{
+background-color: #02b8dd;
+}
+
+partie 5
+oui h1,h2,h3 et h4 ont la meme couleur
+on peut en une seule commande donner cette propriété à tous ces sélecteurs
+sans avoir à le faire de manière individuelle en créant une classe.
+
+
+
+
+
+
+
+
+padding = espacement
+font = police
+size = taille
+  width = largeur
+border-bottom = bordure de bas
+text-transforme = texte en majuscule
+font-weight = text en gras
